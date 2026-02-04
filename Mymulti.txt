@@ -62,3 +62,14 @@
 ||geolocation.onetrust.com
 ||cdn.cookielaw.org
 ||sendtonews.com
+||shopee.vn
+||ads-api.tiktok.com
+||ads-sg.tiktok.com
+||analytics.tiktok.com
+||log.tiktokv.com
+||business-api.tiktok.com
+||p16-va.lemon8cdn.com
+||sf16-scmcdn-sg.akamaized.net
+||api-v2.tiktok.com
+||tiktokv.com
+||byteoversea.com
