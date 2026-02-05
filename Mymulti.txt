@@ -62,6 +62,7 @@ geolocation.onetrust.com
 cdn.cookielaw.org
 sendtonews.com
 #shopee
+shopee.vn
 shopeemobile.com
 cf.shopee.vn
 down-vn.img.susercontent.com
