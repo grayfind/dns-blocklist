@@ -6,7 +6,6 @@
 # Date: 15 January 2026 09:46:33 (UTC)
 #
 # viber ads
-
 ||ads.viber.com
 ||ads.aws.viber.com
 ||ads-d.viber.com
@@ -62,7 +61,12 @@
 ||geolocation.onetrust.com
 ||cdn.cookielaw.org
 ||sendtonews.com
-||shopee.vn
+#shopee
+||shopeemobile.com
+||cf.shopee.vn
+||down-vn.img.susercontent.com
+||ads.shopee.vn
+#tiktok
 ||ads-api.tiktok.com
 ||ads-sg.tiktok.com
 ||analytics.tiktok.com
