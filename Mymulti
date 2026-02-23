@@ -62,11 +62,11 @@
 0.0.0.0 cdn.cookielaw.org
 0.0.0.0 sendtonews.com
 #shopee
-0.0.0.0 shopee.vn
-0.0.0.0 shopeemobile.com
-0.0.0.0 cf.shopee.vn
-0.0.0.0 down-vn.img.susercontent.com
-0.0.0.0 ads.shopee.vn
+#0.0.0.0 shopee.vn
+#0.0.0.0 shopeemobile.com
+#0.0.0.0 cf.shopee.vn
+#0.0.0.0 down-vn.img.susercontent.com
+#0.0.0.0 ads.shopee.vn
 #tiktok
 0.0.0.0 ads-api.tiktok.com
 0.0.0.0 ads-sg.tiktok.com
